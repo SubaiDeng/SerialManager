@@ -1,0 +1,9 @@
+E:\code\串口助手\UsartManeger\UsartManeger\bin\Debug\UsartManeger.exe.config
+E:\code\串口助手\UsartManeger\UsartManeger\bin\Debug\UsartManeger.exe
+E:\code\串口助手\UsartManeger\UsartManeger\bin\Debug\UsartManeger.pdb
+E:\code\串口助手\UsartManeger\UsartManeger\obj\Debug\UsartManeger.csprojResolveAssemblyReference.cache
+E:\code\串口助手\UsartManeger\UsartManeger\obj\Debug\UsartManeger.Form1.resources
+E:\code\串口助手\UsartManeger\UsartManeger\obj\Debug\UsartManeger.Properties.Resources.resources
+E:\code\串口助手\UsartManeger\UsartManeger\obj\Debug\UsartManeger.csproj.GenerateResource.Cache
+E:\code\串口助手\UsartManeger\UsartManeger\obj\Debug\UsartManeger.exe
+E:\code\串口助手\UsartManeger\UsartManeger\obj\Debug\UsartManeger.pdb
